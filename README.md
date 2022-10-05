@@ -1,3 +1,3 @@
+todo-app
 <hr>
-<h1>Console Based Todo Application</h1>
-<hr>
+simple console based todo application
